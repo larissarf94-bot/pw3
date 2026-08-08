@@ -20,7 +20,7 @@ p {
 
 /* Link */
 a {
-    background-color: #0056b3;
+    background-color: #f4099e;
     color: white;
     text-decoration: none;
     padding: 10px 18px;
@@ -29,6 +29,6 @@ a {
 
 /* Efeito ao passar o mouse */
 a:hover {
-    background-color: #73ef07;
+    background-color: #9a2900;
 }
 
